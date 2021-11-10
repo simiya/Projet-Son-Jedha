@@ -42,7 +42,10 @@ https://hub.tensorflow.google.cn/s?module-type=audio-embedding
 4. training
 5. conclusion
 6. on streaming treatement
-7. extra: speech to text, bad word detection
+very interesting document
+https://www.frontiersin.org/articles/10.3389/fcomp.2020.00014/full
+
+8. extra: speech to text, bad word detection
 
 - Spleeter : développé par Deezer, permet de séparer voix/instruments en deux fichiers distincts    ---------- preprocessing 
 - DeepSpeech : développé par Mozilla, speech to text (un peu biaisé car fonctionne très bien sur des sons avec peu de noise, et mieux avec des voix américaines masculines, donc à utiliser après Spleeter)    -------- reutilise API pour traiter les textes après
