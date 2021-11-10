@@ -1,6 +1,10 @@
 # Projet-Son-Jedha
 Projet Subject:  mood dection on speech audio
 
+TODO: decide the final subject , deadline next wendesday (data, detailed project ready)
+if vulgarity, must find the exsiting data
+the total project time is 2 weeks
+
 1. sources:
 
 https://scholar.google.fr/scholar?q=detection+of+feeling+audio&hl=fr&as_sdt=0&as_vis=1&oi=scholart
