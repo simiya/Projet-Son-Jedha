@@ -1,0 +1,17 @@
+image: alpine
+
+stages:
+  - hello
+  - goodbye
+
+hello_job:
+  stage: hello
+  script:
+    - echo Hello World ! This is a CI/CD pipeline for $CI_PROJECT_NAME
+    - cat README.md
+
+goodbye_job:
+  stage: goodbye
+  script:
+    - echo 'Goodbye World !'
+
